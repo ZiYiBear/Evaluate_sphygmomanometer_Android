@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">資工四甲 汪子軼 作業:血壓</string>
+    <string name="hint_Diastolic">收縮壓:</string>
+    <string name="hint_Systolic">舒張壓:</string>
+    <string name="ans_condition">狀態:</string>
+    <string name="convert_btm">轉換</string>
+    <string name="about_it">測量的時間最好選在早上剛起床或晚上睡前，血壓值通常在睡前2小時開始下降、起床後2小時開始上升，因此，早、晚測量的數值是最具有參考價值。此外，若有服用降血壓的藥物，應在吃藥前就進行測量 by維基百科</string>
+</resources>
